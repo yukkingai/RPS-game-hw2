@@ -23,6 +23,14 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # Contact
 
-Free feel to contact me if you want to work out another fun game with me :)
+Free feel to contact me if you want to work another fun game with me :)
 
 email: y_ngai@fanshaweonline.ca
+
+# About me
+
+Unprofessional Python student trys to look professional.
+
+I can chat with weirdo, please try to work with me if you are lol
+
+I wish I am abnormal...

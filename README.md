@@ -4,12 +4,12 @@ This is my hw2 for MMED-1054 Multimedia Authoring 1 class in Fanshawe College.
 
 It is a virtual version of rock paper scissors! Two players compete by choosing an option and comparing their choices. The game is win, lose, or draw - the loser loses a life. Keep playing until one player has no lives left to live.
 
-:raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist:
+:raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: 
 
 # Project Roadmap File
 [Project Roadmap Google Doc link] (https://docs.google.com/document/d/1p_BoYAluQWIeN4jspEOJ1apfIgIV0ZEd7hI-98rP05Y/edit?usp=sharing)
 
-:raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist::raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist:
+:raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist::raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: :raised_hand_with_fingers_splayed: :v: :fist: 
 
 # MIT License
 
@@ -24,4 +24,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 # Contact
 
 Free feel to contact me if you want to work out another fun game with me :)
+
 email: y_ngai@fanshaweonline.ca
